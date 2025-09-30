@@ -4,32 +4,32 @@ Espero las gracias bobo 😘 me partí haciendo esto
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi Página Bonita 🌸</title>
+  <title>Mi Página Bonita</title>
   <style>
     body {
-      text-align: center;
       background-color: #fff0f5;
-      font-family: 'Arial', sans-serif;
+      text-align: center;
+      font-family: Arial, sans-serif;
       color: #4b0082;
       padding: 20px;
     }
     h1 {
-      font-size: 2.5em;
+      font-size: 2em;
+      margin-top: 20px;
     }
     p {
-      font-size: 1.2em;
+      font-size: 1.1em;
+      margin: 10px 0;
     }
     img {
-      border-radius: 15px;
-      margin: 20px 0;
-      max-width: 90%;
-      height: auto;
+      max-width: 80%;
+      border-radius: 10px;
+      margin: 15px 0;
     }
     a {
       text-decoration: none;
       color: #ff1493;
       font-weight: bold;
-      font-size: 1.2em;
     }
     a:hover {
       color: #ff69b4;
@@ -37,18 +37,17 @@ Espero las gracias bobo 😘 me partí haciendo esto
   </style>
 </head>
 <body>
-  <h1>🌸 Bienvenido a mi página 🌸</h1>
-  <p>¡Aquí comparto cosas lindas y música que me gusta!</p>
+  <h1>🌸 Bienvenido 🌸</h1>
+  <p>Este es mi pequeño espacio especial</p>
 
   <!-- Imagen de flores -->
   <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6" alt="Flores bonitas">
 
-  <!-- Música -->
+  <!-- Enlace a música -->
   <p>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Escucha esta canción 🎵</a>
   </p>
 
-  <!-- Mensaje tierno -->
-  <p>✨ Gracias por visitar mi rinconcito especial ✨</p>
+  <p>✨ Gracias por visitar mi página ✨</p>
 </body>
 </html>
